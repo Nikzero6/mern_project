@@ -1,0 +1,26 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "mern tutorial project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikzero6/mern_project.git"
+  },
+  "keywords": [
+    "mern"
+  ],
+  "author": "nikhil rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikzero6/mern_project/issues"
+  },
+  "homepage": "https://github.com/Nikzero6/mern_project#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
